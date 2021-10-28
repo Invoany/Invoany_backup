@@ -56,9 +56,9 @@ comments: true
         <div class="content has-text-justified-desktop has-text-justified-fullhd has-text-justified has-text-justified-tablet has-text-left-mobile">
           <p>{{ content }}</p>
         </div>
-        {% unless site.disqus-shortname == "" %}
-        {% include disqus.html %}
-        {% endunless %}
+        {% if site.disqus.shortname %}
+          {% include disqus_comments.html %}
+        {% endif %}
       </div>
     </div>
   </section>
