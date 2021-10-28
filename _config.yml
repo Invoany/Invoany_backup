@@ -37,8 +37,9 @@ spotify_username:
 # Google Analytics
 google-analytics: UA-163806439-1
 
-# Disqus
-disqus-shortname: invoany-github-io
+# Disqus Comments
+disqus:
+  shortname: invoany-github-io
 
 # Name of the Author
 author-name: Invoany
