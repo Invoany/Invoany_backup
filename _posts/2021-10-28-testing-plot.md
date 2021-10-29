@@ -11,3 +11,25 @@ tags:
 ---
 
 This is a simple testing page just to show my first testing plot!
+
+<iframe src="/assets/images/bokeh/flowers.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+That was my first graph.
+
+<iframe src="/assets/images/bokeh/tes13.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+Another graph
