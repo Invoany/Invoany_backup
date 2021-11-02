@@ -1,7 +1,7 @@
 ---
 title: How to get All Exchanges symbols by using Requests
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+post-image: "https://raw.githubusercontent.com/Invoany/Invoany.github.io/master/assets/images/posts/crypto_exchanges.png"
 description: Simple script to retrieve to a CSV all crypto exchanges presented on CoinGecko
 tags:
 - informative
