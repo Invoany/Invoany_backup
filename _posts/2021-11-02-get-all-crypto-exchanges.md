@@ -17,7 +17,7 @@ We are acessing the Website by using the Requests Library
 import requests
 ```
 
-First we need to define our **base_ur**l for the request call
+First we need to define our **base_url** for the request call
 ```python
 base_url = "https://api.coingecko.com/api/v3/"
 ```
