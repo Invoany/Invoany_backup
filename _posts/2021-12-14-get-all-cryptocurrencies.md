@@ -99,3 +99,4 @@ At the end we return the Dataframe so anytime we need to access the List we just
 To see the full Script please visit the [repository](https://github.com/Invoany/get_all_coins_coingecko "Retrieve all Cryptocurrencies by API(CoinGecko) Call, ID's, Symbols and Names").
 
 Thanks for the reading!
+This is a test
